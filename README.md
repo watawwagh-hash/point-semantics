@@ -25,6 +25,7 @@ The V7.1 `Point` (frozen 2026-08-02) has **no value field** — context + origin
 ## Contents
 
 - [`POINT_SEMANTICS.md`](./POINT_SEMANTICS.md) — the complete reading, code evidence, and propagation rule
+- [`SYMBOL_MAP.md`](./SYMBOL_MAP.md) — the state machine as pure notation: TAKE → HOLD → RELEASE / LOOP
 
 ---
 
